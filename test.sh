@@ -1,5 +1,3 @@
 #!/bin/sh
 
-echo "test fail"
-exit 10
-
+echo "test success"
