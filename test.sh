@@ -1,4 +1,5 @@
 #!/bin/sh
 
-echo "test success"
+echo "test failure"
+exit 10
 
