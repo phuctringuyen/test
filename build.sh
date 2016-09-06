@@ -1,5 +1,4 @@
 #!/bin/sh
 
-echo "build fail"
+echo "build success"
 
-exit 10
